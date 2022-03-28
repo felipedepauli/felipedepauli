@@ -15,6 +15,7 @@ A organização deste github obedece as seguintes categorias
 - Machine Learning
 - Engineering
 - Embedded Systems
+- Logic Programming
 
 Você encontrará apenas dois tipos de materiais:
 
