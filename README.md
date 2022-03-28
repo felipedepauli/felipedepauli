@@ -19,8 +19,8 @@ A organização deste github obedece as seguintes categorias
 
 Você encontrará apenas dois tipos de materiais:
 
-- Projetos
-- Teoria
+- Projects
+- Theory
 
 Divirta-se!
 
