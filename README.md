@@ -21,6 +21,7 @@ Você encontrará apenas dois tipos de materiais:
 
 - Projects
 - Theory
+- Lean Code
 
 Divirta-se!
 
