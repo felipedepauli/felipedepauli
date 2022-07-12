@@ -17,11 +17,12 @@ A organização deste github obedece as seguintes categorias
 - Embedded Systems
 - Logic Programming
 
-Você encontrará apenas dois tipos de materiais:
+Você encontrará apenas quatro tipos de materiais:
 
 - Projects
 - Theory
 - Lean Code
+- Learning
 
 Divirta-se!
 
