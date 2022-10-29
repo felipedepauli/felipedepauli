@@ -6,7 +6,7 @@ ou me contate no email fpauli@aincrivelfabrica.com.br.
 
 Estou finalizando o curso de Engenharia Eletrônica na UTFPR. Já sabia que gostava de tecnologia, mas lá tive contato com um espectro imenso de possibilidades que o mundo nos apresenta hoje. Estou viciado em desafios e mergulhado em aprendizados dos mais diversos.
 
-Sou apaixonado por programação. Programo em várias linguagens, como Python, Javascript, C,  C++, Assembly e VHDL (menos Java, porque daí não dá).
+Sou apaixonado por programação. Programo em várias linguagens, como Python, Javascript, Dart, C,  C++, C#, Assembly e VHDL (menos Java, porque daí não dá).
 
 A organização deste github obedece as seguintes categorias
 
