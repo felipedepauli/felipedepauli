@@ -27,6 +27,8 @@ Você encontrará apenas quatro tipos de materiais:
 Divirta-se!
 
 ## Projetos
+# Tá tudo meio parado porque o objetivo agora é DIPLOMA! Reta final de engenharia eletrônica com especialização em processamento de sinais
+
 ### Projetos de Desenvolvimento WEB
 
 | Categoria |Projeto  | Status  | Live View  | Techs | Desc |
