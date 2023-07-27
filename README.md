@@ -61,3 +61,10 @@ Divirta-se!
 |---|---|---|---|---|---|
 | Machine Learning | Projeto 01: Desafio do Titanic | Dev | Link | Python - Pandas - Scikit Learn | Modelo para predizer se uma pessoa, baseada em suas características, morreria ou sobreviveria ao acidente do Titanic. |
 
+### Projetos de Visão Computacional
+| Categoria |Projeto  | Status  | Live View  | Techs | Desc |
+|---|---|---|---|---|---|
+| Visão Computacional | Projeto 01: Piu Piu Anihilator | MVP | Link | Python - YOLOv8 - Raspberry Pi 4 - C++ - Node.js - REACT| Arma de brinquedo que atira projéteis NERF em um alvo identificado por visão computacional. |
+| Visão Computacional | Projeto 02: Sentinel Eyes | MVP | Link | Python - Face Recognition - Dlib - Raspberry Pi 4 - C++ - MongoDb - Node.js - REACT| Drone que voa e faz detecção facial. |
+| Visão Computacional | Projeto 03: Byakugan | MVP | Link | Python - YOLOv8 - Deep SORT - Raspberry Pi 4 - C++ - MongoDb - Node.js - REACT| Realiza a contagem autônoma de veículos em vias públicas. |
+
