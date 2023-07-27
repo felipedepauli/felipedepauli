@@ -2,6 +2,7 @@
 Este é o meu espaço. Se você é um recrutador, fiquei à vontade, mas o meu objetivo maior aqui é criar um histórico das minhas atividades e códigos para que eu possa reutilizar coisas de hoje, amanhã. Se você quiser algo mais direcionado para contratações, dá uma olhada no meu site:
 
 https://felipedepauli.github.io/ 
+
 ou me contate no email fcdpauli@gmail.com  
 
 CURSO DE ENGENHARIA ELETRÔNICA na UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ FINALIZADO!
