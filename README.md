@@ -92,6 +92,8 @@ Divirta-se!
 | Categoria |Projeto  | Status  | Live View  | Techs | Desc |
 |---|---|---|---|---|---|
 | Machine Learning | [Projeto 01: Desafio do Titanic](https://github.com/felipedepauli/challenges/blob/main/01_titanic/program.ipynb) | Dev | Link | Python - Pandas - Scikit Learn | Modelo para predizer se uma pessoa, baseada em suas características, morreria ou sobreviveria ao acidente do Titanic. |
+| Machine Learning | [Projeto 02: Spaceship Titanic](https://github.com/felipedepauli/challenges/blob/main/02_spaceship/program_v2.ipynb) | Dev | Link | Python - Pandas - Scikit Learn | Modelo para predizer se uma pessoa, baseada em suas características, teria sido ou não teletransportada para outra dimensão ao colidir com um evento desconhecido. |
+
 
 ### Projetos de Visão Computacional
 | Categoria |Projeto  | Status  | Live View  | Techs | Desc |
