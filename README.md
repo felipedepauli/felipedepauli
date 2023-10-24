@@ -36,8 +36,9 @@ Challenges to do! Quero finalizar Challenges do Kaggle para dar uma visitada em 
 
 ### 1. Data Analysis
 - [OK] Análise do Titanic: Explore e analise o conjunto de dados do Titanic para entender os fatores que influenciaram a sobrevivência dos passageiros.
-- [Em andamento] Spaceship: 
-- Análise de Vendas da Black Friday: Analise um conjunto de dados de vendas da Black Friday para identificar padrões de compra e preferências do consumidor.
+- [OK] Spaceship: 
+  [OK] KDD Cup 2009
+- [Em andamento] Análise de Vendas da Black Friday: Analise um conjunto de dados de vendas da Black Friday para identificar padrões de compra e preferências do consumidor.
 
 ### 2. Machine Learning
 - Predição de Preços de Casas: Desenvolva um modelo para prever os preços das casas com base em diversas características.
@@ -91,8 +92,9 @@ Divirta-se!
 ### Projetos de Machine Learning
 | Categoria |Projeto  | Status  | Live View  | Techs | Desc |
 |---|---|---|---|---|---|
-| Machine Learning | [Projeto 01: Desafio do Titanic](https://github.com/felipedepauli/challenges/blob/main/01_titanic/program.ipynb) | Dev | Link | Python - Pandas - Scikit Learn | Modelo para predizer se uma pessoa, baseada em suas características, morreria ou sobreviveria ao acidente do Titanic. |
-| Machine Learning | [Projeto 02: Spaceship Titanic](https://github.com/felipedepauli/challenges/blob/main/02_spaceship/program_v2.ipynb) | Dev | Link | Python - Pandas - Scikit Learn | Modelo para predizer se uma pessoa, baseada em suas características, teria sido ou não teletransportada para outra dimensão ao colidir com um evento desconhecido. |
+| Machine Learning | [Projeto 01: Desafio do Titanic](https://github.com/felipedepauli/challenges/blob/main/01_titanic/program.ipynb) | MVP | Link | Python - Pandas - Scikit Learn | Modelo para predizer se uma pessoa, baseada em suas características, morreria ou sobreviveria ao acidente do Titanic. |
+| Machine Learning | [Projeto 02: Spaceship Titanic](https://github.com/felipedepauli/challenges/blob/main/02_spaceship/program_v2.ipynb) | MVP | Link | Python - Pandas - Scikit Learn | Modelo para predizer se uma pessoa, baseada em suas características, teria sido ou não teletransportada para outra dimensão ao colidir com um evento desconhecido. |
+| Machine Learning | [Projeto 03: KDD Cup 2009](https://github.com/felipedepauli/challenges/blob/main/03_kdd_cup_2009/program.ipynb) | MVP | Link | Python - Pandas - Scikit Learn | Uma companhia telefônica disponibilizou um dataset com várias features irreconhecíveis, mas com um padrão. Ela busca uma solução que indique se os clientes, de acordo com as features, cancelará o plano ou não, ou então se atualizará seu plano ou não. |
 
 
 ### Projetos de Visão Computacional
