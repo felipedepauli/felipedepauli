@@ -89,17 +89,19 @@ Divirta-se!
 | Web | [Proejto 06: Encurtador de URL](https://github.com/felipedepauli/web-projects/tree/main/06_ecurtador_de_url)                | Dev  |  Link|  Mongodb - Nodejs  | Permite adicionar um link grande a uma base de dados, e, a partir de então, usar um link encurtado pelo servidor para acessar o mesmo site. |
 
 
-### Projetos de Machine Learning
-| Categoria |Projeto  | Status  | Live View  | Techs | Desc |
+### Machine Learning Projects
+| Category | Project | Status | Live View | Techs | Description |
 |---|---|---|---|---|---|
-| Machine Learning | [Projeto 01: Desafio do Titanic](https://github.com/felipedepauli/challenges/blob/main/01_titanic/program.ipynb) | MVP | Link | Python - Pandas - Scikit Learn | Modelo para predizer se uma pessoa, baseada em suas características, morreria ou sobreviveria ao acidente do Titanic. |
-| Machine Learning | [Projeto 02: Spaceship Titanic](https://github.com/felipedepauli/challenges/blob/main/02_spaceship/program_v2.ipynb) | MVP | Link | Python - Pandas - Scikit Learn | Modelo para predizer se uma pessoa, baseada em suas características, teria sido ou não teletransportada para outra dimensão ao colidir com um evento desconhecido. |
-| Machine Learning | [Projeto 03: KDD Cup 2009](https://github.com/felipedepauli/challenges/blob/main/03_kdd_cup_2009/program.ipynb) | MVP | Link | Python - Pandas - Scikit Learn | Uma companhia telefônica disponibilizou um dataset com várias features irreconhecíveis, mas com um padrão. Ela busca uma solução que indique se os clientes, de acordo com as features, cancelará o plano ou não, ou então se atualizará seu plano ou não. |
+| Machine Learning | [Project 01: Titanic Challenge](https://github.com/felipedepauli/challenges/blob/main/01_titanic/program.ipynb) | MVP | [Link](#) | Python - Pandas - Scikit Learn | Model to predict whether a person, based on their characteristics, would die or survive the Titanic disaster. |
+| Machine Learning | [Project 02: Spaceship Titanic](https://github.com/felipedepauli/challenges/blob/main/02_spaceship/program_v2.ipynb) | MVP | [Link](#) | Python - Pandas - Scikit Learn | Model to predict whether a person would be teleported to another dimension upon colliding with an unknown event, based on their characteristics. |
+| Machine Learning | [Project 03: KDD Cup 2009](https://github.com/felipedepauli/challenges/blob/main/03_kdd_cup_2009/program.ipynb) | MVP | [Link](#) | Python - Pandas - Scikit Learn | A telephone company has made a dataset with several unrecognizable features, but with a pattern. They are looking for a solution that indicates whether customers will cancel or not cancel, or upgrade or not upgrade their plan according to the features. |
+| Computer Vision | [Project 04: Food Images (Food-101)](https://github.com/felipedepauli/challenges/blob/KC04_FOOD_101/04_food_101/food_101.ipynb) | In Development | [Link](#) | Python - TensorFlow - Keras | Model to classify food images into 101 categories, from apple pies to waffles. The dataset includes different subsets for image analysis and formatted specifically for Keras HDF5Matrix for easy reading. The challenge extends to identifying important image regions/components for classification, detecting combinations of existing tags to identify new types of food, and building object detectors for similar objects in full scenes. |
 
 
-### Projetos de Visão Computacional
-| Categoria |Projeto  | Status  | Live View  | Techs | Desc |
+
+### Computer Vision Projects in Embedded Systems
+| Category | Project | Status | Live View | Techs | Description |
 |---|---|---|---|---|---|
-| Visão Computacional | [Projeto 01: Piu Piu Annihilator](https://github.com/felipedepauli/piu-piu-annihilator) | MVP | Link | Python - YOLOv8 - Raspberry Pi 4 - C++ - Node.js - REACT| Arma de brinquedo que atira projéteis NERF em um alvo identificado por visão computacional. |
-| Visão Computacional | [Projeto 02: Sentinel Eyes](https://github.com/felipedepauli/sentinel-eyes) | MVP | Link | Python - Face Recognition - Dlib - Raspberry Pi 4 - C++ - MongoDb - Node.js - REACT| Drone que voa e faz detecção facial. |
-| Visão Computacional | [Projeto 03: Byakugan](https://github.com/felipedepauli/byakugan) | MVP | Link | Python - YOLOv8 - Deep SORT - Raspberry Pi 4 - C++ - MongoDb - Node.js - REACT| Realiza a contagem autônoma de veículos em vias públicas. |
+| Computer Vision | [Project 01: Piu Piu Annihilator](https://github.com/felipedepauli/piu-piu-annihilator) | MVP | [Link](#) | Python - YOLOv8 - Raspberry Pi 4 - C++ - Node.js - REACT | Toy gun that shoots NERF projectiles at a target identified through computer vision. |
+| Computer Vision | [Project 02: Sentinel Eyes](https://github.com/felipedepauli/sentinel-eyes) | MVP | [Link](#) | Python - Face Recognition - Dlib - Raspberry Pi 4 - C++ - MongoDb - Node.js - REACT | Drone that flies and performs facial detection. |
+| Computer Vision | [Project 03: Byakugan](https://github.com/felipedepauli/byakugan) | MVP | [Link](#) | Python - YOLOv8 - Deep SORT - Raspberry Pi 4 - C++ - MongoDb - Node.js - REACT | Performs autonomous vehicle counting on public roads. |
