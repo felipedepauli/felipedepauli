@@ -23,6 +23,7 @@ Aqui estão alguns dos meus projetos, meus pequenos monstros que construí em no
 - **[Piu Piu Annihilator](https://github.com/felipedepauli/piu-piu-annihilator):** A arma de brinquedo mais legal (e só um pouquinho perigosa) que você vai ver hoje.
 - **[Sentinel Eyes](https://github.com/felipedepauli/sentinel-eyes):** Um drone que reconhece seu rosto e julga suas escolhas de moda. Não... ele só reconhece seu rosto mesmo. Essa camisa furada de traça ele ignora.
 - **[Byakugan](https://github.com/felipedepauli/byakugan):** Inspirado no olho que tudo vê no universo de Naruto, este sistema não apenas conta veículos em vias públicas, mas faz isso com um olhar afiado e analítico, observando os fluxos e movimentos como um verdadeiro ninja da visão computacional. Ele observa as "veias" de nossas cidades, garantindo que cada "célula" (ou, nesse caso, veículo) seja contabilizada, proporcionando uma visão penetrante e ampla dos nossos espaços urbanos. Quem precisa do olho de um Uchiha quando se tem um sistema assim, não é mesmo?
+- **[Tattoo Tracer](https://github.com/felipedepauli/tattoo_trace):** Pra que identifidade se você tem uma tatuagem? Este sistema detecta pessoas, tatuagens, poses e, a partir de tudo isso, adivinha magicamente onde a tatuagem está no seu corpo. Se você for um foragido da polícia e tiver uma tatuagem com nome da ex, é melhor esconder essas belezinhas, aí.
 
 ## Contato
 
