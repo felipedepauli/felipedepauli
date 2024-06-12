@@ -106,3 +106,7 @@ Divirta-se!
 | Computer Vision | [Project 01: Piu Piu Annihilator](https://github.com/felipedepauli/piu-piu-annihilator) | MVP | [Link](#) | Python - YOLOv8 - Raspberry Pi 4 - C++ - Node.js - REACT | Toy gun that shoots NERF projectiles at a target identified through computer vision. |
 | Computer Vision | [Project 02: Sentinel Eyes](https://github.com/felipedepauli/sentinel-eyes) | MVP | [Link](#) | Python - Face Recognition - Dlib - Raspberry Pi 4 - C++ - MongoDb - Node.js - REACT | Drone that flies and performs facial detection. |
 | Computer Vision | [Project 03: Byakugan](https://github.com/felipedepauli/byakugan) | MVP | [Link](#) | Python - YOLOv8 - Deep SORT - Raspberry Pi 4 - C++ - MongoDb - Node.js - REACT | Performs autonomous vehicle counting on public roads. |
+
+
+### Didatic
+[ANN Mnist](https://github.com/felipedepauli/so-deep/blob/magic_stream/DL03_ANN/ann_mnist.ipynb) - Artificial Neural Network to classify handwritten digits from the MNIST dataset.
