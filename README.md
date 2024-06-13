@@ -109,4 +109,5 @@ Divirta-se!
 
 
 ### Didatic
-[ANN Mnist](https://github.com/felipedepauli/so-deep/blob/magic_stream/DL03_ANN/ann_mnist.ipynb) - Artificial Neural Network to classify handwritten digits from the MNIST dataset.
+[ANN Mnist](https://github.com/felipedepauli/so-deep/blob/magic_stream/DL03_ANN/ann_mnist.ipynb) - Artificial Neural Network to classify handwritten digits from the MNIST dataset.  
+[ANN Regression](https://github.com/felipedepauli/so-deep/blob/magic_stream/DL03_ANN/ann_regression.ipynb) - Artificial Neural Network to predict a sintetic dataset.
