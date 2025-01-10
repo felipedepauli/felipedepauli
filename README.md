@@ -1,70 +1,65 @@
-# Opa! Eu sou o Felipe!
+# Hey! I'm Felipe!
 
-Bem-vindo ao meu pedaço de caos digital, onde a programação encontra um monte de outras coisas que eu amo (e algumas que eu odeio, mas umas porradas da vida nos fortalecem).
+Welcome to my slice of digital chaos, where programming meets a bunch of other things I love (and some I hate, but life's punches make us stronger).
 
-## Quem Sou Eu e Por Que Você Deveria se Importar?
+## Who Am I and Why Should You Care?
 
-Sou apenas um cara que ama um bom código, uma bela bancada com componentes eletrônicos e ferramentas organizada ou não, e odeia uma máquina de café quebrada. Mentira porque coado é sempre melhor.
+I'm just a guy who loves clean code, a well-organized workbench full of electronic components and tools (or not), and hates a broken coffee machine. Just kidding—brewed coffee is always better.
 
-Engenheiro Eletrônico, Mestrando em IA, baterista nas horas vagas e sempre em busca do prato nonsense de boteco perfeito para acompanhar uma boa cerveja.
+Electronic Engineer, Master's student in AI, drummer in my spare time, and always in search of the perfect nonsense bar snack to pair with a good beer.
 
-## "Educação"
+## "Education"
 
-- **UTFPR:** Engenharia Eletrônica e um mestrado em progresso em IA.
+- **UTFPR:** Electronic Engineering and an ongoing Master's in AI.
   
-## Cadeira Cativa no Trabalho
+## My Day Job
 
-Na **Pumatronix**, eu mexo com visão computacional, adivinhando o que as placas dos carros estão tentando nos dizer e contando veículos nas vias públicas.
+At **Pumatronix**, I work with computer vision, figuring out what license plates are trying to tell us and counting vehicles on public roads.
 
-## Meus Franksteins Digitais
+## My Digital Frankensteins
 
-Aqui estão alguns dos meus projetos, meus pequenos monstros que construí em noites de insônia e litros de café:
+Here are some of my projects, my little monsters built through sleepless nights and countless cups of coffee:
 
-- **[Piu Piu Annihilator](https://github.com/felipedepauli/piu-piu-annihilator):** A arma de brinquedo mais legal (e só um pouquinho perigosa) que você vai ver hoje.
-- **[Sentinel Eyes](https://github.com/felipedepauli/sentinel-eyes):** Um drone que reconhece seu rosto e julga suas escolhas de moda. Não... ele só reconhece seu rosto mesmo. Essa camisa furada de traça ele ignora.
-- **[Byakugan](https://github.com/felipedepauli/byakugan):** Inspirado no olho que tudo vê no universo de Naruto, este sistema não apenas conta veículos em vias públicas, mas faz isso com um olhar afiado e analítico, observando os fluxos e movimentos como um verdadeiro ninja da visão computacional. Ele observa as "veias" de nossas cidades, garantindo que cada "célula" (ou, nesse caso, veículo) seja contabilizada, proporcionando uma visão penetrante e ampla dos nossos espaços urbanos. Quem precisa do olho de um Uchiha quando se tem um sistema assim, não é mesmo?
-- **[Tattoo Tracer](https://github.com/felipedepauli/tattoo_trace):** Pra que identifidade se você tem uma tatuagem? Este sistema detecta pessoas, tatuagens, poses e, a partir de tudo isso, adivinha magicamente onde a tatuagem está no seu corpo. Se você for um foragido da polícia e tiver uma tatuagem com nome da ex, é melhor esconder essas belezinhas, aí.
+- **[Piu Piu Annihilator](https://github.com/felipedepauli/piu-piu-annihilator):** The coolest (and only slightly dangerous) toy gun you'll see today.
+- **[Sentinel Eyes](https://github.com/felipedepauli/sentinel-eyes):** A drone that recognizes your face and judges your fashion choices. No... it just recognizes your face. It won’t even notice that moth-eaten shirt.
+- **[Tattoo Tracer](https://github.com/felipedepauli/tattoo_trace):** Who needs an ID when you have a tattoo? This system detects people, tattoos, and poses and magically guesses where the tattoo is on your body. If you're on the run from the police and have an ex’s name tattooed, you’d better hide those beauties.
 
-## Contato
+## Contact
 
-Quer falar comigo? Pode me encontrar no [LinkedIn](https://www.linkedin.com/in/felipe-camargo-de-pauli/) ou dando RTs desnecessários no [Twitter](https://twitter.com/afabrica). Se preferir o bom e velho email, me mande suas correntes e memes para [felipe@aincrivelfabrica.com.br](mailto:felipe@aincrivelfabrica.com.br?subject=Hey%20Felipe).
+Want to talk to me? You can find me on [LinkedIn](https://www.linkedin.com/in/felipe-camargo-de-pauli/) or retweeting unnecessary things on [Twitter](https://twitter.com/afabrica). If you prefer good old email, send me your chain letters and memes at [felipe@aincrivelfabrica.com.br](mailto:felipe@aincrivelfabrica.com.br?subject=Hey%20Felipe).
 
-## O que Vem Por Aí...
+## What's Coming Next...
 
-Estou planejando tornar o Piu Piu e o Sentinel Eyes autônomos usando IA, porque claramente o que o mundo precisa é de mais máquinas autônomas com potencial destrutivo. Desculpa se estou ajudando a humanidade a trilhar seu caminho rumo à extinção.
+I’m planning to make Piu Piu and Sentinel Eyes autonomous using AI because what the world clearly needs is more autonomous machines with destructive potential. Sorry if I’m helping humanity tread its path toward extinction.
 
-Challenges to do! Quero finalizar Challenges do Kaggle para dar uma visitada em todos os conceitos de Data Analysis e Machine Learning possíveis.
+Challenges to do! I want to complete Kaggle Challenges to revisit all possible concepts of Data Analysis and Machine Learning.
 
 ### 1. Data Analysis
-- [OK] Análise do Titanic: Explore e analise o conjunto de dados do Titanic para entender os fatores que influenciaram a sobrevivência dos passageiros.
+- [OK] Titanic Analysis: Explore and analyze the Titanic dataset to understand the factors influencing passenger survival.
 - [OK] Spaceship: 
   [OK] KDD Cup 2009
-- [Em andamento] Análise de Vendas da Black Friday: Analise um conjunto de dados de vendas da Black Friday para identificar padrões de compra e preferências do consumidor.
-
 ### 2. Machine Learning
-- Predição de Preços de Casas: Desenvolva um modelo para prever os preços das casas com base em diversas características.
-- Detecção de Fraude de Cartão de Crédito: Construa um modelo para identificar transações fraudulentas em um conjunto de dados de transações de cartão de crédito.
+- House Price Prediction: Develop a model to predict house prices based on various characteristics.
+- Credit Card Fraud Detection: Build a model to identify fraudulent transactions in a credit card transaction dataset.
 
 ### 3. Deep Learning
-- Reconhecimento de Dígitos Escritos à Mão (MNIST): Utilize redes neurais para reconhecer dígitos escritos à mão.
-- Classificação de Raças de Cães: Implemente um modelo de deep learning para classificar imagens de cães de acordo com sua raça.
+- Handwritten Digit Recognition (MNIST): Use neural networks to recognize handwritten digits.
+- Dog Breed Classification: Implement a deep learning model to classify dog breeds from images.
 
 ### 4. Computer Vision
-- Detecção de Pneumonia em Radiografias de Tórax: Desenvolva um modelo de visão computacional para detectar pneumonia em imagens de radiografia de tórax.
-- Segmentação de Imagem de Núcleos Celulares: Crie um modelo para segmentar núcleos celulares em imagens de microscópio.
+- Pneumonia Detection in Chest X-Rays: Develop a computer vision model to detect pneumonia in chest X-ray images.
+- Cell Nucleus Image Segmentation: Create a model to segment cell nuclei in microscope images.
 
 ### 5. Natural Language Processing (NLP)
-- Análise de Sentimento de Tweets: Analise o sentimento de tweets relacionados a desastres naturais.
-- Sumarização Automática de Textos: Desenvolva um modelo de NLP para gerar resumos automáticos de textos longos.
+- Sentiment Analysis of Tweets: Analyze the sentiment of tweets related to natural disasters.
+- Automatic Text Summarization: Develop an NLP model to generate automatic summaries of long texts.
 
 ### 6. Reinforcement Learning
-- Treinamento de Agente para Jogo Atari: Utilize técnicas de reinforcement learning para treinar um agente a jogar um jogo clássico do Atari.
-
-
+- Atari Game Agent Training: Use reinforcement learning techniques to train an agent to play a classic Atari game.
 
 # Portfolio
 
-A organização deste github obedece as seguintes categorias
+The organization of this GitHub follows the categories below:
 
 - Web
 - Data Science
@@ -74,40 +69,36 @@ A organização deste github obedece as seguintes categorias
 - Embedded Systems
 - Logic Programming
 
-Divirta-se!
+Enjoy!
 
-## Projetos
+## Projects
 
-### Projetos de Desenvolvimento WEB
+### Web Development Projects
 
-| Categoria |Projeto  | Status  | Live View  | Techs | Desc |
+| Category | Project  | Status  | Live View  | Techs | Description |
 |---|---|---|---|---|---|
-| Web | [Projeto 01: Página de Login do Instagram](https://github.com/felipedepauli/web-projects/tree/main/01_instagram)  | MVP  |  [Link](https://aincrivelfabrica.com.br/projetos/01_instagram/) |  Html5 | Réplica da página de login do Instagram. |
-| Web | [Projeto 02: Clone do Netflix](https://github.com/felipedepauli/web-projects/tree/main/02_netflix_clone)          | MVP  | [Link](https://aincrivelfabrica.com.br/projetos/02_netflix_clone/)  |  Html5 | Réplica da página inicial do Netflix.  |
-| Web | [Projeto 03: Clone do Gather Town](https://github.com/felipedepauli/web-projects/tree/main/03_gather_clone)                 | Dev  | Link  | Html5  | Réplica do sistema gather.town, que permite que empresas possam ter escritórios virtuais. |
-| Web | [Projeto 04: Jogo Genius](https://github.com/felipedepauli/web-projects/tree/main/04_genius)                                | MVP  | [Link](https://aincrivelfabrica.com.br/projetos/04_genius/)  | Html5  | Réplica do jogo Genius feito em html5 (javascript puro). |
-| Web | [Projeto 05: Repos](https://github.com/felipedepauli/web-projects/tree/main/05_repos)                                       | MVP  | [Link](https://aincrivelfabrica.com.br/projetos/05_repos/)  | Reactjs - Github API  | Visualizador de informações reduzidas de perfis do github. |
-| Web | [Proejto 06: Encurtador de URL](https://github.com/felipedepauli/web-projects/tree/main/06_ecurtador_de_url)                | Dev  |  Link|  Mongodb - Nodejs  | Permite adicionar um link grande a uma base de dados, e, a partir de então, usar um link encurtado pelo servidor para acessar o mesmo site. |
-
+| Web | [Project 01: Instagram Login Page](https://github.com/felipedepauli/web-projects/tree/main/01_instagram)  | MVP  |  [Link](https://aincrivelfabrica.com.br/projetos/01_instagram/) |  Html5 | Replica of Instagram's login page. |
+| Web | [Project 02: Netflix Clone](https://github.com/felipedepauli/web-projects/tree/main/02_netflix_clone)          | MVP  | [Link](https://aincrivelfabrica.com.br/projetos/02_netflix_clone/)  |  Html5 | Replica of Netflix's homepage.  |
+| Web | [Project 03: Gather Town Clone](https://github.com/felipedepauli/web-projects/tree/main/03_gather_clone)                 | In Dev  | Link  | Html5  | Replica of the gather.town system, enabling companies to have virtual offices. |
+| Web | [Project 04: Genius Game](https://github.com/felipedepauli/web-projects/tree/main/04_genius)                                | MVP  | [Link](https://aincrivelfabrica.com.br/projetos/04_genius/)  | Html5  | Replica of the Genius game made in pure JavaScript. |
+| Web | [Project 05: Repos Viewer](https://github.com/felipedepauli/web-projects/tree/main/05_repos)                                       | MVP  | [Link](https://aincrivelfabrica.com.br/projetos/05_repos/)  | Reactjs - Github API  | A viewer for simplified GitHub profile information. |
+| Web | [Project 06: URL Shortener](https://github.com/felipedepauli/web-projects/tree/main/06_ecurtador_de_url)                | In Dev  |  Link |  Mongodb - Nodejs  | Adds a long link to a database and generates a shortened URL to access the same site. |
 
 ### Machine Learning Projects
 | Category | Project | Status | Live View | Techs | Description |
 |---|---|---|---|---|---|
-| Machine Learning | [Project 01: Titanic Challenge](https://github.com/felipedepauli/challenges/blob/main/01_titanic/program.ipynb) | MVP | [Link](#) | Python - Pandas - Scikit Learn | Model to predict whether a person, based on their characteristics, would die or survive the Titanic disaster. |
-| Machine Learning | [Project 02: Spaceship Titanic](https://github.com/felipedepauli/challenges/blob/main/02_spaceship/program_v2.ipynb) | MVP | [Link](#) | Python - Pandas - Scikit Learn | Model to predict whether a person would be teleported to another dimension upon colliding with an unknown event, based on their characteristics. |
-| Machine Learning | [Project 03: KDD Cup 2009](https://github.com/felipedepauli/challenges/blob/main/03_kdd_cup_2009/program.ipynb) | MVP | [Link](#) | Python - Pandas - Scikit Learn | A telephone company has made a dataset with several unrecognizable features, but with a pattern. They are looking for a solution that indicates whether customers will cancel or not cancel, or upgrade or not upgrade their plan according to the features. |
-| Computer Vision | [Project 04: Food Images (Food-101)](https://github.com/felipedepauli/challenges/blob/KC04_FOOD_101/04_food_101/food_101.ipynb) | In Development | [Link](#) | Python - TensorFlow - Keras | Model to classify food images into 101 categories, from apple pies to waffles. The dataset includes different subsets for image analysis and formatted specifically for Keras HDF5Matrix for easy reading. The challenge extends to identifying important image regions/components for classification, detecting combinations of existing tags to identify new types of food, and building object detectors for similar objects in full scenes. |
-
-
+| Machine Learning | [Project 01: Titanic Challenge](https://github.com/felipedepauli/challenges/blob/main/01_titanic/program.ipynb) | MVP | [Link](#) | Python - Pandas - Scikit Learn | Model to predict survival on the Titanic based on passenger characteristics. |
+| Machine Learning | [Project 02: Spaceship Titanic](https://github.com/felipedepauli/challenges/blob/main/02_spaceship/program_v2.ipynb) | MVP | [Link](#) | Python - Pandas - Scikit Learn | Predict whether a person would teleport to another dimension during an unknown event based on their characteristics. |
+| Machine Learning | [Project 03: KDD Cup 2009](https://github.com/felipedepauli/challenges/blob/main/03_kdd_cup_2009/program.ipynb) | MVP | [Link](#) | Python - Pandas - Scikit Learn | Predict customer behavior (e.g., upgrade or cancel their plan) using a dataset from a telecom company. |
+| Computer Vision | [Project 04: Food Images (Food-101)](https://github.com/felipedepauli/challenges/blob/KC04_FOOD_101/04_food_101/food_101.ipynb) | In Dev | [Link](#) | Python - TensorFlow - Keras | Classify food images into 101 categories. |
 
 ### Computer Vision Projects in Embedded Systems
 | Category | Project | Status | Live View | Techs | Description |
 |---|---|---|---|---|---|
-| Computer Vision | [Project 01: Piu Piu Annihilator](https://github.com/felipedepauli/piu-piu-annihilator) | MVP | [Link](#) | Python - YOLOv8 - Raspberry Pi 4 - C++ - Node.js - REACT | Toy gun that shoots NERF projectiles at a target identified through computer vision. |
-| Computer Vision | [Project 02: Sentinel Eyes](https://github.com/felipedepauli/sentinel-eyes) | MVP | [Link](#) | Python - Face Recognition - Dlib - Raspberry Pi 4 - C++ - MongoDb - Node.js - REACT | Drone that flies and performs facial detection. |
-| Computer Vision | [Project 03: Byakugan](https://github.com/felipedepauli/byakugan) | MVP | [Link](#) | Python - YOLOv8 - Deep SORT - Raspberry Pi 4 - C++ - MongoDb - Node.js - REACT | Performs autonomous vehicle counting on public roads. |
+| Computer Vision | [Project 01: Piu Piu Annihilator](https://github.com/felipedepauli/piu-piu-annihilator) | MVP | [Link](#) | Python - YOLOv8 - Raspberry Pi 4 - C++ - Node.js - REACT | A toy gun that fires NERF projectiles at targets identified via computer vision. |
+| Computer Vision | [Project 02: Sentinel Eyes](https://github.com/felipedepauli/sentinel-eyes) | MVP | [Link](#) | Python - Face Recognition - Dlib - Raspberry Pi 4 - C++ - MongoDb - Node.js - REACT | Drone performing facial detection. |
+| Computer Vision | [Project 03: Byakugan](https://github.com/felipedepauli/byakugan) | MVP | [Link](#) | Python - YOLOv8 - Deep SORT - Raspberry Pi 4 - C++ - MongoDb - Node.js - REACT | Autonomous vehicle counting system. |
 
-
-### Didatic
+### Didactic
 [ANN Mnist](https://github.com/felipedepauli/so-deep/blob/magic_stream/DL03_ANN/ann_mnist.ipynb) - Artificial Neural Network to classify handwritten digits from the MNIST dataset.  
-[ANN Regression](https://github.com/felipedepauli/so-deep/blob/magic_stream/DL03_ANN/ann_regression.ipynb) - Artificial Neural Network to predict a sintetic dataset.
+[ANN Regression](https://github.com/felipedepauli/so-deep/blob/magic_stream/DL03_ANN/ann_regression.ipynb) - Artificial Neural Network for synthetic dataset regression.
